@@ -1131,3 +1131,5 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.06.12-09.36.50:047][678]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
 [2024.06.12-09.36.50:722][678]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2024.06.12-09.38.37:129][205]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.041 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 509 files in 874 folders with total size 3 MiB.
+[2024.06.12-09.42.08:638][296]BlueprintLog: New page: Compile NewMap
+[2024.06.12-09.42.08:669][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
