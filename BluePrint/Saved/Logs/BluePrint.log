@@ -1133,3 +1133,15 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.06.12-09.38.37:129][205]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.041 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 509 files in 874 folders with total size 3 MiB.
 [2024.06.12-09.42.08:638][296]BlueprintLog: New page: Compile NewMap
 [2024.06.12-09.42.08:669][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.12-09.44.40:060][ 60]BlueprintLog: New page: Compile NewMap
+[2024.06.12-09.44.40:083][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.06.12-09.44.40:669][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-09.44.40:729][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Administrator/Desktop/Unreal5/BluePrint/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.12-09.44.40:758][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.06.12-09.44.40:766][119]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007618 seconds
+[2024.06.12-09.44.40:777][119]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.06.12-09.44.40:778][119]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/Unreal5/BluePrint/Saved/NewMap254A556947D4CDCEB2BA7694C8F4B736.tmp' to '../../../../../../Users/Administrator/Desktop/Unreal5/BluePrint/Content/NewMap.umap'
+[2024.06.12-09.44.40:783][119]LogFileHelpers: Saving map 'NewMap' took 0.054
+[2024.06.12-09.44.40:788][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms
+[2024.06.12-09.44.40:789][119]AssetCheck: New page: Asset Save: NewMap
+[2024.06.12-09.44.40:789][119]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
