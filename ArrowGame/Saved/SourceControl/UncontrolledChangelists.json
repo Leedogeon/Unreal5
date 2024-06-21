@@ -302,7 +302,14 @@
 				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset",
 				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
 				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/BluePrint/BP_Player.uasset",
-				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/BP_test.uasset",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/BluePrint/AnimationTestMap.umap",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/ParagonSparrow/Characters/Heroes/Sparrow/AnimationTestMap.umap",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/AnimationTestMap.umap",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/BluePrint/BP_test.uasset",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/BluePrint/BP_GameMode.uasset"
 			]
 		}
 	]
