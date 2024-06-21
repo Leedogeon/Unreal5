@@ -309,7 +309,10 @@
 				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/AnimationTestMap.umap",
 				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/BluePrint/BP_test.uasset",
 				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/BluePrint/BP_GameMode.uasset"
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/BluePrint/BP_GameMode.uasset",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/Animation/ABP_Player.uasset",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/Animation/BS_.uasset",
+				"C:/Users/Administrator/Desktop/Unreal5/ArrowGame/Content/Animation/BS_Jog.uasset"
 			]
 		}
 	]
